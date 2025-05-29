@@ -1,5 +1,5 @@
 # NYPKayipEvcilHayvan
-C# ile geliştirilen Kayıp Evcil Hayvan Takip Sistemi uygulaması ve SQL Server veritabanı dosyası.
+OOP C# ile geliştirilen Kayıp Evcil Hayvan Takip Sistemi uygulaması ve SQL Server veritabanı dosyası.
 
 Kullanıcılar kayıp evcil hayvanları sisteme ekleyebilir, sahip bilgilerini, hayvan bilgilerini ve ilanları görüntüleyebilir.
 
