@@ -1,0 +1,11 @@
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\bin\Debug\KayıpEvcilHayvanTakipSistemi.exe.config
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\bin\Debug\KayıpEvcilHayvanTakipSistemi.exe
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\bin\Debug\KayıpEvcilHayvanTakipSistemi.pdb
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.exe
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.pdb
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.exe.config
+C:\Users\MSI\OneDrive\Desktop\KAYIP EVCİL HAYVAN\KayıpEvcilHayvanTakipSistemi\KayıpEvcilHayvanTakipSistemi\obj\Debug\KayıpEvcilHayvanTakipSistemi.Form1.resources
